@@ -25,3 +25,12 @@ D:\Documents\visual studio 2015\Projects\DataGridViewWithFilter\DataGridWithFilt
 D:\Documents\visual studio 2015\Projects\DataGridViewWithFilter\DataGridWithFilterDemo\DataGridWithFilterDemo\obj\Debug\DataGridWithFilterDemo.Form1.resources
 D:\Documents\visual studio 2015\Projects\DataGridViewWithFilter\DataGridWithFilterDemo\DataGridWithFilterDemo\obj\Debug\DataGridWithFilterDemo.Properties.Resources.resources
 D:\Documents\visual studio 2015\Projects\DataGridViewWithFilter\DataGridWithFilterDemo\DataGridWithFilterDemo\obj\Debug\DataGridWithFilterDemo.csproj.GenerateResource.Cache
+D:\projects\DataGridViewWithFilter\DataGridWithFilterDemo\bin\Debug\DataGridWithFilterDemo.exe.config
+D:\projects\DataGridViewWithFilter\DataGridWithFilterDemo\bin\Debug\DataGridWithFilterDemo.exe
+D:\projects\DataGridViewWithFilter\DataGridWithFilterDemo\bin\Debug\DataGridWithFilterDemo.pdb
+D:\projects\DataGridViewWithFilter\DataGridWithFilterDemo\obj\Debug\DataGridWithFilterDemo.csprojResolveAssemblyReference.cache
+D:\projects\DataGridViewWithFilter\DataGridWithFilterDemo\obj\Debug\DataGridWithFilterDemo.Form1.resources
+D:\projects\DataGridViewWithFilter\DataGridWithFilterDemo\obj\Debug\DataGridWithFilterDemo.Properties.Resources.resources
+D:\projects\DataGridViewWithFilter\DataGridWithFilterDemo\obj\Debug\DataGridWithFilterDemo.csproj.GenerateResource.Cache
+D:\projects\DataGridViewWithFilter\DataGridWithFilterDemo\obj\Debug\DataGridWithFilterDemo.exe
+D:\projects\DataGridViewWithFilter\DataGridWithFilterDemo\obj\Debug\DataGridWithFilterDemo.pdb
